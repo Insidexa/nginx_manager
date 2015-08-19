@@ -18,8 +18,3 @@ void Host::editVHost (QString host, listHosts newValueHost) {
     this->map[host].host = newValueHost.host;
 }
 
-//Host::~Host()
-//{
-
-//}
-
